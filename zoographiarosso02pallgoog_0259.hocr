@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./zoographiarosso02pallgoog_0259.png"; bbox 0 0 1346 1717; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 985 240 1156 278">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 985 240 1156 278">
+     <span class='ocr_line' id='line_1_1' title="bbox 985 240 1156 278; baseline 0 -4"><span class='ocrx_word' id='word_1_1' title='bbox 985 240 1110 278; x_wconf 47' lang='lat' dir='ltr'><em>&amp;meast</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 1116 251 1156 274; x_wconf 70' lang='lat'><em>227-</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 200 313 1192 1266">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 200 313 1192 1266">
+     <span class='ocr_line' id='line_1_2' title="bbox 200 313 1192 1266; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 200 313 1192 1266; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 477 1360 822 1406">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 477 1360 822 1406">
+     <span class='ocr_line' id='line_1_3' title="bbox 477 1360 822 1406; baseline 0.009 -21"><span class='ocrx_word' id='word_1_4' title='bbox 477 1370 511 1386; x_wconf 45' lang='grc' dir='ltr'><em>μή</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 518 1374 600 1388; x_wconf 61' lang='lat' dir='ltr'><em>lentes·</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 625 1360 759 1406; x_wconf 44' lang='grc' dir='ltr'><em>φωνή]</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 763 1372 822 1388; x_wconf 53' lang='grc' dir='ltr'><em>ναί,</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
